@@ -1,0 +1,33 @@
+body {
+   background-color: white;
+}
+h1 {
+   font-family: "Arial";
+   color: black;
+   margin-left: 20px;
+}
+h2 {
+   font-family: "Arial";
+   color: black;
+   margin-left: 20px;
+}
+main {
+   font-family: "Arial";
+   color: black;
+   margin-left: 20px;
+   font-size: 25px;
+}
+.parent-element {
+    display: flex;
+    flex-direction: row;
+    justify-contents: space-between;
+}
+
+.parent-element .text p1 {
+	align-self: left;
+	height: 200px;
+	]
+	
+.parent-element .text p2 {
+	align-self: right;
+	]
